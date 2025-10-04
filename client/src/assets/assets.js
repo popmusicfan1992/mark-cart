@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo3.svg";
 import search_icon from "./search_icon.svg";
 import remove_icon from "./remove_icon.svg";
 import arrow_right_icon_colored from "./arrow_right_icon_colored.svg";
@@ -150,7 +150,7 @@ export const footerLinks = [
     title: "Quick Links",
     links: [
       { text: "Home", url: "#" },
-      { text: "Best Sellers", url: "#" },
+      { text: "Best Sellers", url: "#seller" },
       { text: "Offers & Deals", url: "#" },
       { text: "Contact Us", url: "#" },
       { text: "FAQs", url: "#" },
@@ -169,10 +169,8 @@ export const footerLinks = [
   {
     title: "Follow Us",
     links: [
-      { text: "Instagram", url: "#" },
-      { text: "Twitter", url: "#" },
-      { text: "Facebook", url: "#" },
-      { text: "YouTube", url: "#" },
+      { text: "Linkedin", url: "https://www.linkedin.com/in/hu%E1%BB%B3nh-v%C4%83n-ph%C3%BA-3a3520115/" },
+      { text: "Facebook", url: "https://www.facebook.com/phu.huynh.49442/" },
     ],
   },
 ];
